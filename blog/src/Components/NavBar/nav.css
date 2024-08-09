@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.menu i {
+  color: white;
+}
+
+.menu a {
+  margin-right: 30px;
+  color: white;
+}
+
+.dropdown-menu.show {
+  background-color: black;
+}
+.dropdown-basic {
+  background-color: transparent;
+}
+
+#dropdown-basic {
+  margin-right: 80px;
+}
+
+.userData {
+  font-size: 20px;
+}
+
+.menu button {
+  background-color: transparent;
+  border: none;
+}
+.menu button:hover {
+  background-color: transparent;
+}
+
+.header {
+  height: 4vh;
+}

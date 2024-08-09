@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+aside {
+  width: 250px;
+  height: 93.7vh;
+  position: fixed;
+  background-color: black;
+}
+
+aside ul {
+  list-style: none;
+  line-height: 50px;
+  font-size: large;
+}
+
+ul li a {
+  padding: 5px;
+  color: white;
+  text-decoration: none;
+}
+ul li a:hover {
+    color: gray;
+}
+#icon_img {
+  width: 30px;
+  height: 30px;
+}
