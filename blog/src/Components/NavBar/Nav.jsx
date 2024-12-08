@@ -43,7 +43,7 @@ export default function NavBar() {
                 }  id="profileDropdown"  alignRight
               >
                 <NavDropdown.Item>Profile</NavDropdown.Item>
-                <NavDropdown.Item>Settings</NavDropdown.Item>
+                {/* <NavDropdown.Item>Settings</NavDropdown.Item> */}
                 <NavDropdown.Divider />
                 <NavDropdown.Item>Logout</NavDropdown.Item>
               </NavDropdown>
